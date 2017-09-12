@@ -18,6 +18,8 @@ public class MyCollection {
 
         films.toonDVD();
 
+        System.out.printf("hjh");
+
         System.out.println("hello from the other side");
 
     }
