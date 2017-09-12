@@ -5,7 +5,10 @@ import java.util.List;
 
 public class DVDCollection {
 
-    //ik heb commentaar!!!
+
+
+
+
 
     List<DVD> dvdcollection = new ArrayList<>();
 
